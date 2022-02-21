@@ -1,0 +1,54 @@
+body{
+    background-size:cover;
+}
+
+#eaoiu{
+    font-size: 60px;
+    font-family: 'Finger Paint';
+    color: thistle
+}
+
+#uioae{
+    font-size: 30px;
+    font-family:'Caveat';
+    color: gold;
+    width: 200px;
+    height: 60px;
+    background: linear-gradient(to right, midnightblue, mediumvioletred);
+    font-weight:bold
+
+}
+
+.buttons{
+    background: linear-gradient(to left, gray, palevioletred);
+    color: navy;
+    font-size: 30px;
+    font-family: 'Hi Melody';
+}
+
+.ueiao{
+    margin-right: 30px;
+}
+
+#footer{
+font-size: 40px;
+font-family: 'Homemade Apple';
+background: linear-gradient(lime, forestgreen);
+position: fixed;
+color: purple;
+font-weight: bold;
+width: 100%;
+line-height: 2;
+bottom: 0;
+margin-top: 1500px;
+}
+i{
+    font-size: 40px;
+    color: purple;
+    margin-right: 30px;
+}
+
+canvas{
+    border: 5px ridge darkorchid;
+    box-shadow: 60px 60px 60px darkorange;
+}
